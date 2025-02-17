@@ -33,7 +33,7 @@ export default function Header() {
             underline="none"
             to="/"
           >
-            My Store!
+            AWS 2025Q1!
           </Link>
         </Typography>
 
